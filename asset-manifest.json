@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "./static/css/main.404848d6.chunk.css",
-    "main.js": "./static/js/main.5ce6d04e.chunk.js",
-    "main.js.map": "./static/js/main.5ce6d04e.chunk.js.map",
+    "main.js": "./static/js/main.ea1baad4.chunk.js",
+    "main.js.map": "./static/js/main.ea1baad4.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.6ed46aa6.js",
     "runtime-main.js.map": "./static/js/runtime-main.6ed46aa6.js.map",
     "static/css/2.a09232fe.chunk.css": "./static/css/2.a09232fe.chunk.css",
-    "static/js/2.73e0bc55.chunk.js": "./static/js/2.73e0bc55.chunk.js",
-    "static/js/2.73e0bc55.chunk.js.map": "./static/js/2.73e0bc55.chunk.js.map",
+    "static/js/2.c20f2523.chunk.js": "./static/js/2.c20f2523.chunk.js",
+    "static/js/2.c20f2523.chunk.js.map": "./static/js/2.c20f2523.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.073aadf43cbdae3045b1eb64211b805a.js": "./precache-manifest.073aadf43cbdae3045b1eb64211b805a.js",
+    "precache-manifest.73b1a283bb70090d5e50340145b77a9c.js": "./precache-manifest.73b1a283bb70090d5e50340145b77a9c.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.a09232fe.chunk.css.map": "./static/css/2.a09232fe.chunk.css.map",
     "static/css/main.404848d6.chunk.css.map": "./static/css/main.404848d6.chunk.css.map",
-    "static/js/2.73e0bc55.chunk.js.LICENSE.txt": "./static/js/2.73e0bc55.chunk.js.LICENSE.txt",
+    "static/js/2.c20f2523.chunk.js.LICENSE.txt": "./static/js/2.c20f2523.chunk.js.LICENSE.txt",
+    "static/media/20200918-SW photo.jpg": "./static/media/20200918-SW photo.f7436316.jpg",
+    "static/media/Jeffrey_Cragg.jpg": "./static/media/Jeffrey_Cragg.825cefe0.jpg",
     "static/media/adewunmi_kuforiji.jpg": "./static/media/adewunmi_kuforiji.a8aa2105.jpg",
     "static/media/aja_ajavon.jpg": "./static/media/aja_ajavon.838aa4ee.jpg",
     "static/media/albert_mills.jpg": "./static/media/albert_mills.2e080010.jpg",
@@ -74,7 +76,9 @@
     "static/media/howie_hawkins.jpg": "./static/media/howie_hawkins.5399fe7b.jpg",
     "static/media/hunter_hastings.jpg": "./static/media/hunter_hastings.1dcb636a.jpg",
     "static/media/ian_smith.jpg": "./static/media/ian_smith.10f73749.jpg",
+    "static/media/imagejpeg_1-4.jpg": "./static/media/imagejpeg_1-4.0d582cb4.jpg",
     "static/media/irwin_burton.jpg": "./static/media/irwin_burton.133d5399.jpg",
+    "static/media/jaci_hugg.jpg": "./static/media/jaci_hugg.634082c8.jpg",
     "static/media/jack_walsh.jpg": "./static/media/jack_walsh.47a1a55f.jpg",
     "static/media/james_bell.jpg": "./static/media/james_bell.e2aa583d.jpg",
     "static/media/james_demartino.jpg": "./static/media/james_demartino.c7142d5c.jpg",
@@ -147,6 +151,7 @@
     "static/media/tim_conrad.jpg": "./static/media/tim_conrad.f26c0854.jpg",
     "static/media/todd_ruckle.jpg": "./static/media/todd_ruckle.de3acdca.jpg",
     "static/media/trinidad_navarro.jpg": "./static/media/trinidad_navarro.a5d73b55.jpg",
+    "static/media/tripp_keister.jpg": "./static/media/tripp_keister.1a31fbc3.jpg",
     "static/media/trippi_congo.jpg": "./static/media/trippi_congo.52896fb4.jpg",
     "static/media/tyrone_johnson.jpg": "./static/media/tyrone_johnson.37f8db12.jpg",
     "static/media/valerie_longhurst.jpg": "./static/media/valerie_longhurst.609539b6.jpg",
@@ -162,8 +167,8 @@
   "entrypoints": [
     "static/js/runtime-main.6ed46aa6.js",
     "static/css/2.a09232fe.chunk.css",
-    "static/js/2.73e0bc55.chunk.js",
+    "static/js/2.c20f2523.chunk.js",
     "static/css/main.404848d6.chunk.css",
-    "static/js/main.5ce6d04e.chunk.js"
+    "static/js/main.ea1baad4.chunk.js"
   ]
 }
